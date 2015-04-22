@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  MusicPlayer
+//  播放器
 //
-//  Created by tarena3812 on 15/3/1.
+//  Created by tarena3812 on 15/2/26.
 //  Copyright (c) 2015年 tarena. All rights reserved.
 //
 
